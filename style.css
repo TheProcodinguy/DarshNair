@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Pacifico&family=Sacramento&display=swap');
+.style {
+    background-color: #E8F9FD;
+    text-align: center;  
+    padding-top: 100px;  
+    height: fit-content;
+    
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.Darsh {
+    z-index: 1;
+    color: #0AA1DD;
+    font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+    font-family: 'Neucha', cursive;
+    color: #0AA1DD;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Neucha', cursive;
+    color: #0AA1DD;
+    font-weight: normal;
+    font-weight: 700;
+}
+
+
+.bottom-container {
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Neucha', cursive;
+}
+
+.middle-container {
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Neucha', cursive;
+    
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+img {
+    align-items: center;
+}
+
+.mountain {
+    size: 200%;
+    margin-bottom: 0px;
+}
+
+.contact-me {
+    align-items: center;
+    text-align: center;
+    background-color: #0aa1dd44; 
+    padding: 25px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+    
+}
+
+.computer{
+    border-radius: 300px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 7px ;
+}
+
+.chilly{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 7px ;
+}
+
+.csd{
+    clear: right;
+}
+
+hr{
+    border-style: dotted;
+    width: 5%;
+    color: #9aaaad;
+    border-width: 9px;
+    border-top: 0px;
+    margin-top: 40px;
+}
+
+.footer-link {
+    color: rgb(0, 126, 199);
+    font-weight: 600;
+}
+
+.dn{
+    border-radius: 50px;
+    width: 13%;
+}
